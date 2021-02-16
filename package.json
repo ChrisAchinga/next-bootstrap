@@ -1,0 +1,15 @@
+{
+  "name": "next-bootstrap",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "next dev",
+    "build": "next build",
+    "dev": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
