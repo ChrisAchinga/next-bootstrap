@@ -5,16 +5,16 @@ import Menu from '../components/Menu'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 
- const Home = () => {
+ const About = () => {
   return (
     <>
       <Head>
-        <title>Next Bootstrap Starter</title>
+        <title>About Page</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
       <Menu />
       <main>
-        <Header head='Home' description='A nextJS Bootstrap Landing Page' />
+        <Header head='About' description='A nextJS Bootstrap About Page Starter' />
       </main>
       <Footer />
     </>
@@ -22,4 +22,4 @@ import Footer from '../components/Footer'
 }
 
 
-export default Home
+export default About
