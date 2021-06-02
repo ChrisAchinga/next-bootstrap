@@ -1,1 +1,0 @@
-# Next & Bootstrap Starter
